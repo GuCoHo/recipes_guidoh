@@ -1,9 +1,10 @@
-Vegetable Soup Recipe:
+Spicy vegetable Soup Recipe:
 
 Ingredients:
-	- a pumpkin
-	- five slices of smoked paprika
+	- a flask pumpkin
+	- four slices of smoked paprika
 	- five tomatoes
 	- one onion
 	- four carrots
+	- hot pepper
 	- bouillon
